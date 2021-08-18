@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 pypiserver = "*"
+setuptools = "*"
+italo = {path = "./packages/pkg-italo"}
 
 [requires]
 python_version = "3.8"

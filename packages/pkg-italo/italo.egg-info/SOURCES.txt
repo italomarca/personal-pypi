@@ -1,0 +1,6 @@
+setup.py
+italo/__init__.py
+italo.egg-info/PKG-INFO
+italo.egg-info/SOURCES.txt
+italo.egg-info/dependency_links.txt
+italo.egg-info/top_level.txt
